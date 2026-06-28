@@ -189,7 +189,7 @@ section h2{
 }
 
 .profile-info p{
-    display:flex;
+    display:grid;
     margin:15px 0;
     font-size:18px;
     color:#555;
