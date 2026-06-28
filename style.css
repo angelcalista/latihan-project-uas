@@ -174,7 +174,7 @@ section h2{
     width:250px;
     height:250px;
     object-fit:cover;
-    border-radius:0
+    border-radius:50%; /* jadi bulat */
     border:6px solid #ffb6d5;
     box-shadow:0 10px 25px rgba(255,105,180,.25);
     flex-shrink:0;
@@ -185,16 +185,14 @@ section h2{
 }
 
 .profile-info p{
-    display:grid;
-    grid-template-columns:180px 1fr;
-    gap:15px;
-    margin:15px 0;
-    padding-bottom:12px;
-    border-bottom:1px dashed #ffd6e7;
+    margin:12px 0;
+    font-size:18px;
 }
 
 .profile-info strong{
     color:#ff4f95;
+    display:inline-block;
+    width:170px;
 }
 
 .profile-description{
