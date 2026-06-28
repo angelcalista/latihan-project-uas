@@ -20,19 +20,13 @@ body{
 ========================= */
 
 header{
-    width:90%;
-    max-width:1200px;
-    margin:20px auto;
-    padding:18px 40px;
-    background:#fff;
-    border-radius:50px;
+    width:100%;
+    background:#ffffff;
+    padding:18px 50px;
     display:flex;
     justify-content:space-between;
     align-items:center;
-    position:sticky;
-    top:15px;
-    z-index:999;
-    box-shadow:0 10px 25px rgba(255,105,180,.18);
+    box-shadow:0 3px 15px rgba(255,105,180,.15);
 }
 
 header h1{
