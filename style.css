@@ -149,7 +149,7 @@ section h2{
 ========================= */
 
 #about p{
-    text-align:center;
+    text-align:justify;
     max-width:850px;
     margin:15px auto;
     color:#666;
