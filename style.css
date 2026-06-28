@@ -27,10 +27,6 @@ header{
     justify-content:space-between;
     align-items:center;
     box-shadow:0 3px 15px rgba(255,105,180,.15);
-
-    position: static;
-    top: auto;
-    z-index: auto;
 }
 
 header h1{
