@@ -200,11 +200,13 @@ section h2{
 }
 
 .profile-description{
-    display: block;
-    margin-top: 20px;
-    font-style: italic;
-    color: #555;
-    line-height: 1.6;
+    margin-top:25px;
+    background:#fff;
+    border-left:5px solid #ff69b4;
+    border-radius:12px;
+    padding:18px;
+    font-style:italic;
+    color:#666;
 }
 /* =========================
    GALLERY
